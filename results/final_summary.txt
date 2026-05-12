@@ -1,0 +1,18 @@
+Model Comparison Metrics
+           model         mae         rmse        r2
+ RidgeRegression 4315.607788  4339.627532  0.733101
+LinearRegression 4406.003287  4416.832648  0.723520
+    RandomForest 5210.000000  5967.595831  0.495292
+GradientBoosting 9059.776279  9436.530395 -0.262020
+  DummyRegressor 8650.000000 12057.466566 -1.060410
+
+Prediction Summary Statistics
+                    count          mean           std          min          25%           50%           75%           max
+actual_price          2.0   9600.000000  11879.393924  1200.000000  5400.000000   9600.000000  13800.000000  18000.000000
+predicted_price       2.0  13915.607788  11234.573730  5971.564519  9943.586154  13915.607788  17887.629422  21859.651056
+price_difference      2.0   4315.607788    644.820194  3859.651056  4087.629422   4315.607788   4543.586154   4771.564519
+percent_difference    2.0      2.095364      2.660050     0.214425     1.154895      2.095364      3.035834      3.976304
+
+Fairness Label Counts
+fairness_label
+Overpriced    2
