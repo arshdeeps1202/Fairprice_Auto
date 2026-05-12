@@ -1,0 +1,11 @@
+price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,drive,type,paint_color,state
+12000,2012,honda,civic,good,4,gasoline,75000,clean,title automatic,fwd,sedan,silver,CA
+18000,2017,ford,mustang,excellent,8,gasoline,45000,clean,manual,rwd,coupe,red,TX
+9500,2005,toyota,corolla,fair,4,gasoline,180000,clean,automatic,fwd,sedan,blue,NY
+25000,2019,tesla,model 3,excellent,0,electric,30000,clean,automatic,awd,sedan,white,CA
+40000,2021,mercedes-benz,c-class,excellent,4,gasoline,15000,clean,automatic,awd,sedan,black,FL
+6000,2001,chevrolet,impala,poor,6,gasoline,220000,rebuilt,automatic,fwd,sedan,grey,OH
+15000,2015,audi,a4,good,4,gasoline,90000,clean,automatic,awd,sedan,black,WA
+8500,2010,ford,fusion,fair,4,gasoline,130000,clean,automatic,fwd,sedan,white,MI
+1200,1995,oldsmobile,aurora,poor,8,gasoline,250000,salvage,automatic,rwd,sedan,green,GA
+30000,2020,lexus,rx,excellent,6,gasoline,20000,clean,automatic,awd,suv,black,CA
